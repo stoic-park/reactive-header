@@ -5,18 +5,43 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>navbar exercise</title>
     <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/77e29b57dd.js"
+      crossorigin="anonymous"
+    ></script>
+    <!-- defer란 무엇인가?!!!! -->
+    <script src="index.js" defer></script>
   </head>
   <body>
+    <!-- container -->
     <nav class="navbar">
-      <div class="navbar-logo"></div>
-      <div class="navbar-menu">
-        <li>Home</li>
-        <li>Galley</li>
-        <li>Weddings</li>
-        <li>FAQ</li>
-        <li>Bookings</li>
+      <!-- logo -->
+      <div class="navbar-logo">
+        <!-- <i class="fas fa-frog"></i> -->
+        <i class="far fa-lemon"></i>
+        <!-- <div class="navbar-logo-name">FrogCoding</div> -->
+        <a href="">BenomadWill</a>
       </div>
-      <div class="navbar-icon"></div>
+      <!-- menu -->
+      <ul class="navbar-menu">
+        <li><a href="">Home</a></li>
+        <li><a href="">About</a></li>
+        <li><a href="">Project</a></li>
+        <li><a href="">DevLog</a></li>
+        <li><a href="">Diary</a></li>
+      </ul>
+      <!-- icon -->
+      <ul class="navbar-icon">
+        <li><i class="fab fa-twitter"></i></li>
+        <li><i class="fab fa-facebook-square"></i></li>
+      </ul>
+      <a href="#" class="navbar-more">
+        <i class="fas fa-bars"></i>
+      </a>
     </nav>
   </body>
 </html>
