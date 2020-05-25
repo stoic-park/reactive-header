@@ -9,5 +9,5 @@
 
 
 ### 2. mobile screen
-![Screenshot_1590413769](https://user-images.githubusercontent.com/55645972/82817608-3fe02480-9ed8-11ea-97f0-66b1209e7640.png)
-![Screenshot_1590413771](https://user-images.githubusercontent.com/55645972/82817615-41a9e800-9ed8-11ea-948d-d4113d46dc63.png)
+![Screenshot_1590413769](https://user-images.githubusercontent.com/55645972/82818175-47ec9400-9ed9-11ea-93da-621f61f710c2.png)
+![Screenshot_1590413771](https://user-images.githubusercontent.com/55645972/82818178-48852a80-9ed9-11ea-85f2-a0672d13ac33.png)
